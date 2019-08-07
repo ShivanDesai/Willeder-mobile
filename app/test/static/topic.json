@@ -1,0 +1,157 @@
+{
+    "success": true,
+    "data": [
+        {
+            "topic_id": 1,
+            "topic_name": "Academic disciplines"
+        },
+        {
+            "topic_id": 2,
+            "topic_name": "Business"
+        },
+        {
+            "topic_id": 3,
+            "topic_name": "Concepts"
+        },
+        {
+            "topic_id": 4,
+            "topic_name": "Crime"
+        },
+        {
+            "topic_id": 5,
+            "topic_name": "Culture"
+        },
+        {
+            "topic_id": 6,
+            "topic_name": "Economy"
+        },
+        {
+            "topic_id": 7,
+            "topic_name": "Education"
+        },
+        {
+            "topic_id": 8,
+            "topic_name": "Energy"
+        },
+        {
+            "topic_id": 9,
+            "topic_name": "Entertainment"
+        },
+        {
+            "topic_id": 10,
+            "topic_name": "Events"
+        },
+        {
+            "topic_id": 11,
+            "topic_name": "Food and drink"
+        },
+        {
+            "topic_id": 12,
+            "topic_name": "Geography"
+        },
+        {
+            "topic_id": 13,
+            "topic_name": "Government"
+        },
+        {
+            "topic_id": 14,
+            "topic_name": "Health"
+        },
+        {
+            "topic_id": 15,
+            "topic_name": "History"
+        },
+        {
+            "topic_id": 16,
+            "topic_name": "Human behavior"
+        },
+        {
+            "topic_id": 17,
+            "topic_name": "Humanities"
+        },
+        {
+            "topic_id": 18,
+            "topic_name": "Knowledge"
+        },
+        {
+            "topic_id": 19,
+            "topic_name": "Language"
+        },
+        {
+            "topic_id": 20,
+            "topic_name": "Law"
+        },
+        {
+            "topic_id": 21,
+            "topic_name": "Life"
+        },
+        {
+            "topic_id": 22,
+            "topic_name": "Mathematics"
+        },
+        {
+            "topic_id": 23,
+            "topic_name": "Military"
+        },
+        {
+            "topic_id": 24,
+            "topic_name": "Mind"
+        },
+        {
+            "topic_id": 25,
+            "topic_name": "Music"
+        },
+        {
+            "topic_id": 26,
+            "topic_name": "Nature"
+        },
+        {
+            "topic_id": 27,
+            "topic_name": "Objects"
+        },
+        {
+            "topic_id": 28,
+            "topic_name": "Organizations"
+        },
+        {
+            "topic_id": 29,
+            "topic_name": "People"
+        },
+        {
+            "topic_id": 30,
+            "topic_name": "Philosophy"
+        },
+        {
+            "topic_id": 31,
+            "topic_name": "Politics"
+        },
+        {
+            "topic_id": 32,
+            "topic_name": "Religion"
+        },
+        {
+            "topic_id": 33,
+            "topic_name": "Science"
+        },
+        {
+            "topic_id": 34,
+            "topic_name": "Society"
+        },
+        {
+            "topic_id": 35,
+            "topic_name": "Sports"
+        },
+        {
+            "topic_id": 36,
+            "topic_name": "Technology"
+        },
+        {
+            "topic_id": 37,
+            "topic_name": "Universe"
+        },
+        {
+            "topic_id": 38,
+            "topic_name": "World"
+        }
+    ]
+}

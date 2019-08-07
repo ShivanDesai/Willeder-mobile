@@ -1,0 +1,141 @@
+{
+    "success": true,
+    "data": [
+        {
+            "company_id": "29dfbc07-e3bc-4038-a4af-b7a2a0096b8a",
+            "company_name": "BlueBolt",
+            "company_image": "~/assets/images/sampleCompany.jpg",
+            "brand_image": "~/assets/images/sampleLogo.png",
+            "city_id": 7563,
+            "company_size_id": 2,
+            "brand_what": "Delivering AI-powered B2B & B2C experiences.",
+            "tags": [
+                {
+                    "tag_id": 220,
+                    "company_tag_id": 49
+                },
+                {
+                    "tag_id": 263,
+                    "company_tag_id": 50
+                },
+                {
+                    "tag_id": 483,
+                    "company_tag_id": 51
+                },
+                {
+                    "tag_id": 210,
+                    "company_tag_id": 52
+                }
+            ]
+        },
+        {
+            "company_id": "29dfbc07-e3bc-4038-a4af-b7a2a0096b8a",
+            "company_name": "BlueBolt",
+            "company_image": "~/assets/images/sampleCompany.jpg",
+            "brand_image": "~/assets/images/sampleLogo.png",
+            "city_id": 7563,
+            "company_size_id": 2,
+            "brand_what": "Delivering AI-powered B2B & B2C experiences.",
+            "tags": [
+                {
+                    "tag_id": 220,
+                    "company_tag_id": 49
+                },
+                {
+                    "tag_id": 263,
+                    "company_tag_id": 50
+                },
+                {
+                    "tag_id": 483,
+                    "company_tag_id": 51
+                },
+                {
+                    "tag_id": 210,
+                    "company_tag_id": 52
+                }
+            ]
+        },
+        {
+            "company_id": "29dfbc07-e3bc-4038-a4af-b7a2a0096b8a",
+            "company_name": "BlueBolt",
+            "company_image": "~/assets/images/sampleCompany.jpg",
+            "brand_image": "~/assets/images/sampleLogo.png",
+            "city_id": 7563,
+            "company_size_id": 2,
+            "brand_what": "Delivering AI-powered B2B & B2C experiences.",
+            "tags": [
+                {
+                    "tag_id": 220,
+                    "company_tag_id": 49
+                },
+                {
+                    "tag_id": 263,
+                    "company_tag_id": 50
+                },
+                {
+                    "tag_id": 483,
+                    "company_tag_id": 51
+                },
+                {
+                    "tag_id": 210,
+                    "company_tag_id": 52
+                }
+            ]
+        },
+        {
+            "company_id": "29dfbc07-e3bc-4038-a4af-b7a2a0096b8a",
+            "company_name": "BlueBolt",
+            "company_image": "~/assets/images/sampleCompany.jpg",
+            "brand_image": "~/assets/images/sampleLogo.png",
+            "city_id": 7563,
+            "company_size_id": 2,
+            "brand_what": "Delivering AI-powered B2B & B2C experiences.",
+            "tags": [
+                {
+                    "tag_id": 220,
+                    "company_tag_id": 49
+                },
+                {
+                    "tag_id": 263,
+                    "company_tag_id": 50
+                },
+                {
+                    "tag_id": 483,
+                    "company_tag_id": 51
+                },
+                {
+                    "tag_id": 210,
+                    "company_tag_id": 52
+                }
+            ]
+        },
+        {
+            "company_id": "29dfbc07-e3bc-4038-a4af-b7a2a0096b8a",
+            "company_name": "BlueBolt",
+            "company_image": "~/assets/images/sampleCompany.jpg",
+            "brand_image": "~/assets/images/sampleLogo.png",
+            "city_id": 7563,
+            "company_size_id": 2,
+            "brand_what": "Delivering AI-powered B2B & B2C experiences.",
+            "tags": [
+                {
+                    "tag_id": 220,
+                    "company_tag_id": 49
+                },
+                {
+                    "tag_id": 263,
+                    "company_tag_id": 50
+                },
+                {
+                    "tag_id": 483,
+                    "company_tag_id": 51
+                },
+                {
+                    "tag_id": 210,
+                    "company_tag_id": 52
+                }
+            ]
+        }
+    ],
+    "next_offset": 20
+}

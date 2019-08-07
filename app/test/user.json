@@ -1,0 +1,41 @@
+
+{
+    "success": true,
+    "data": {
+
+        "user_id": "4015a382-19c2-44ce-9f5d-905b868aff10",
+        "first_name": "Pritesh",
+        "last_name": "Kadiwala",
+        "user_image": "~/assets/images/dp.png",
+        "city_id": 9072,
+
+        "interest_what": "It is to explore the ins and outs of the Entrepreneurship.",
+        "interest_why": "The challenges and problems I have faced during my time with Entrepreneurship have truly energized me in a way that my college career never did.",
+
+        "vision_what": "My vision is to share all the knowledge I gather.",
+        "vision_why": "I want to help every person feel prepared and fearless to achieve what they set out to do.",
+
+        "hobby1_what": "Playing Ukulele",
+        "hobby1_description": "I love acoustic songs and have surrounded myself with music for the past 15 years of my life.",
+        "hobby2_what": "Playing FIFA",
+        "hobby2_description": "I love to play Fifa in my free time and am considered one of the best amongst my friends. While work is great, this helps me spend time with friends.",
+        "hobby3_what": "Laying down and look at the stars",
+        "hobby3_description": "These days it's rare that we take some time out for ourselves and be disconnected. So to remind myself, I sometimes lay down and look at the stars",
+
+        "number_of_following": 10,
+        "number_of_followers": 8,
+
+        "user_occupation": [
+            {
+                "is_student": 0,
+                "moving_option_id": null,
+                "employment_type_id": null
+            }
+        ],
+        "user_certification": null,
+        "user_certification_study_specialization": null,
+        "job_experience": null,
+        "job_experience_highlight_dates": null,
+        "number_of_posts": 5
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "success": true,
+    "data": [
+        {
+            "post": [
+                {
+                    "city_id": 9646,
+                    "company_id": "35bca7b5-2817-4afe-8ff0-a08a8021d094",
+                    "job_post_id": "a19eeb18-faf6-48fa-bcdb-c5a1d66d1776",
+                    "posted_date": "2019-03-15",
+                    "company_name": "RICS Software",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "job_post_title": "Software Analysts & Engineers"
+                }
+            ],
+            "post_type": 5,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "job_post_image_id": "968085c4-0741-455b-bae2-a79661dcff43"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 274,
+                    "job_post_tag_id": 52
+                },
+                {
+                    "tag_id": 422,
+                    "job_post_tag_id": 53
+                },
+                {
+                    "tag_id": 220,
+                    "job_post_tag_id": 54
+                }
+            ],
+            "topic_id": null,
+            "created_at": "2019-04-17T07:18:05.000Z",
+            "updated_at": "2019-04-17T07:24:24.000Z"
+        }
+        ,{
+            "post": [
+                {
+
+                    "city_id": 9646,
+                    "company_id": "35bca7b5-2817-4afe-8ff0-a08a8021d094",
+                    "job_post_id": "a19eeb18-faf6-48fa-bcdb-c5a1d66d1776",
+                    "posted_date": "2019-03-15",
+                    "company_name": "RICS Software",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "job_post_title": "Software Analysts & Engineers"
+                }
+            ],
+            "post_type": 5,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "job_post_image_id": "968085c4-0741-455b-bae2-a79661dcff43"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 274,
+                    "job_post_tag_id": 52
+                },
+                {
+                    "tag_id": 422,
+                    "job_post_tag_id": 53
+                },
+                {
+                    "tag_id": 220,
+                    "job_post_tag_id": 54
+                }
+            ],
+            "topic_id": null,
+            "created_at": "2019-04-17T07:18:05.000Z",
+            "updated_at": "2019-04-17T07:24:24.000Z"
+        },{
+            "post": [
+                {
+
+                    "city_id": 9646,
+                    "company_id": "35bca7b5-2817-4afe-8ff0-a08a8021d094",
+                    "job_post_id": "a19eeb18-faf6-48fa-bcdb-c5a1d66d1776",
+                    "posted_date": "2019-03-15",
+                    "company_name": "RICS Software",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "job_post_title": "Software Analysts & Engineers"
+                }
+            ],
+            "post_type": 5,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "job_post_image_id": "968085c4-0741-455b-bae2-a79661dcff43"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 274,
+                    "job_post_tag_id": 52
+                },
+                {
+                    "tag_id": 422,
+                    "job_post_tag_id": 53
+                },
+                {
+                    "tag_id": 220,
+                    "job_post_tag_id": 54
+                }
+            ],
+            "topic_id": null,
+            "created_at": "2019-04-17T07:18:05.000Z",
+            "updated_at": "2019-04-17T07:24:24.000Z"
+        },{
+            "post": [
+                {
+
+                    "city_id": 9646,
+                    "company_id": "35bca7b5-2817-4afe-8ff0-a08a8021d094",
+                    "job_post_id": "a19eeb18-faf6-48fa-bcdb-c5a1d66d1776",
+                    "posted_date": "2019-03-15",
+                    "company_name": "RICS Software",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "job_post_title": "Software Analysts & Engineers"
+                }
+            ],
+            "post_type": 5,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "job_post_image_id": "968085c4-0741-455b-bae2-a79661dcff43"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 274,
+                    "job_post_tag_id": 52
+                },
+                {
+                    "tag_id": 422,
+                    "job_post_tag_id": 53
+                },
+                {
+                    "tag_id": 220,
+                    "job_post_tag_id": 54
+                }
+            ],
+            "topic_id": null,
+            "created_at": "2019-04-17T07:18:05.000Z",
+            "updated_at": "2019-04-17T07:24:24.000Z"
+        },{
+            "post": [
+                {
+
+                    "city_id": 9646,
+                    "company_id": "35bca7b5-2817-4afe-8ff0-a08a8021d094",
+                    "job_post_id": "a19eeb18-faf6-48fa-bcdb-c5a1d66d1776",
+                    "posted_date": "2019-03-15",
+                    "company_name": "RICS Software",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "job_post_title": "Software Analysts & Engineers"
+                }
+            ],
+            "post_type": 5,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "job_post_image_id": "968085c4-0741-455b-bae2-a79661dcff43"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 274,
+                    "job_post_tag_id": 52
+                },
+                {
+                    "tag_id": 422,
+                    "job_post_tag_id": 53
+                },
+                {
+                    "tag_id": 220,
+                    "job_post_tag_id": 54
+                }
+            ],
+            "topic_id": null,
+            "created_at": "2019-04-17T07:18:05.000Z",
+            "updated_at": "2019-04-17T07:24:24.000Z"
+        },{
+            "post": [
+                {
+
+                    "city_id": 9646,
+                    "company_id": "35bca7b5-2817-4afe-8ff0-a08a8021d094",
+                    "job_post_id": "a19eeb18-faf6-48fa-bcdb-c5a1d66d1776",
+                    "posted_date": "2019-03-15",
+                    "company_name": "RICS Software",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "job_post_title": "Software Analysts & Engineers"
+                }
+            ],
+            "post_type": 5,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "job_post_image_id": "968085c4-0741-455b-bae2-a79661dcff43"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 274,
+                    "job_post_tag_id": 52
+                },
+                {
+                    "tag_id": 422,
+                    "job_post_tag_id": 53
+                },
+                {
+                    "tag_id": 220,
+                    "job_post_tag_id": 54
+                }
+            ],
+            "topic_id": null,
+            "created_at": "2019-04-17T07:18:05.000Z",
+            "updated_at": "2019-04-17T07:24:24.000Z"
+        },{
+            "post": [
+                {
+
+                    "city_id": 9646,
+                    "company_id": "35bca7b5-2817-4afe-8ff0-a08a8021d094",
+                    "job_post_id": "a19eeb18-faf6-48fa-bcdb-c5a1d66d1776",
+                    "posted_date": "2019-03-15",
+                    "company_name": "RICS Software",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "job_post_title": "Software Analysts & Engineers"
+                }
+            ],
+            "post_type": 5,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "job_post_image_id": "968085c4-0741-455b-bae2-a79661dcff43"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 274,
+                    "job_post_tag_id": 52
+                },
+                {
+                    "tag_id": 422,
+                    "job_post_tag_id": 53
+                },
+                {
+                    "tag_id": 220,
+                    "job_post_tag_id": 54
+                }
+            ],
+            "topic_id": null,
+            "created_at": "2019-04-17T07:18:05.000Z",
+            "updated_at": "2019-04-17T07:24:24.000Z"
+        },{
+            "post": [
+                {
+
+                    "city_id": 9646,
+                    "company_id": "35bca7b5-2817-4afe-8ff0-a08a8021d094",
+                    "job_post_id": "a19eeb18-faf6-48fa-bcdb-c5a1d66d1776",
+                    "posted_date": "2019-03-15",
+                    "company_name": "RICS Software",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "job_post_title": "Software Analysts & Engineers"
+                }
+            ],
+            "post_type": 5,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "job_post_image_id": "968085c4-0741-455b-bae2-a79661dcff43"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 274,
+                    "job_post_tag_id": 52
+                },
+                {
+                    "tag_id": 422,
+                    "job_post_tag_id": 53
+                },
+                {
+                    "tag_id": 220,
+                    "job_post_tag_id": 54
+                }
+            ],
+            "topic_id": null,
+            "created_at": "2019-04-17T07:18:05.000Z",
+            "updated_at": "2019-04-17T07:24:24.000Z"
+        }
+    ],
+    "next_offset": 9
+}

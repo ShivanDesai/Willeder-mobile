@@ -1,0 +1,164 @@
+{
+    "success": true,
+    "data": [
+        {
+            "post": [
+                {
+                    "user_id": "4015a382-19c2-44ce-9f5d-905b868aff10",
+                    "last_name": "Kadiwala",
+                    "company_id": "50f47ba1-1ff8-4b40-8748-936719c31c72",
+                    "first_name": "Pritesh",
+                    "user_image": "~/assets/images/dp.png",
+                    "company_name": "Willeder",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "job_experience_id": "b66f32f4-bc3d-4252-9e09-bf0ad2899a39",
+                    "employment_type_id": 1,
+                    "job_experience_title": "test",
+                    "job_experience_highlight_id": "46567bb8-8538-479c-b8d6-82140f50a61c",
+                    "job_experience_highlight_type": 0
+                }
+            ],
+            "post_type": 0,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "job_experience_highlight_id": "46567bb8-8538-479c-b8d6-82140f50a61c"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 208,
+                    "job_experience_highlight_tag_id": 93
+                },
+                {
+                    "tag_id": 1,
+                    "job_experience_highlight_tag_id": 94
+                }
+            ],
+            "topic_id": 1,
+            "number_of_likes": 0,
+            "number_of_company_likes": null,
+            "number_of_comments": 0,
+            "created_at": "2019-07-24T14:40:28.000Z",
+            "updated_at": "2019-07-24T14:40:28.000Z"
+        },
+        {
+            "post": [
+                {
+                    "user_id": "201f64f4-40dc-4473-8cc9-0e4a75f9718d",
+                    "last_name": "Orikata",
+                    "first_name": "Rei",
+                    "user_image": "~/assets/images/dp.png",
+                    "user_achievement_id": "cdf53cfd-4d1e-4f40-89ec-332297df4f49",
+                    "user_achievement_date": "2016-08-22",
+                    "user_achievement_type": 0,
+                    "user_achievement_title": "CS 307 Trading Card Game"
+                }
+            ],
+            "post_type": 1,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleJob.jpg",
+                    "user_achievement_image_id": "e7ea85d3-6295-4c63-ba46-54379b3927b6"
+                },
+                {
+                    "path": "~/assets/images/sampleCompany.jpg",
+                    "user_achievement_image_id": "870dcbd9-e275-4e69-af0b-89e18e4433b2"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 242,
+                    "user_achievement_tag_id": 274
+                },
+                {
+                    "tag_id": 272,
+                    "user_achievement_tag_id": 275
+                },
+                {
+                    "tag_id": 596,
+                    "user_achievement_tag_id": 276
+                }
+            ],
+            "topic_id": 1,
+            "number_of_likes": 1,
+            "number_of_company_likes": null,
+            "number_of_comments": 0,
+            "created_at": "2019-06-27T01:46:04.000Z",
+            "updated_at": "2019-06-27T14:59:21.000Z"
+        },
+        {
+            "post": [
+                {
+                    "company_id": "3c4d0528-c715-49e2-8172-475a7b385979",
+                    "company_name": "Hireology",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "company_highlight_id": "94c2bb5f-541b-45b9-b3da-470bacb4e6a0",
+                    "company_highlight_title": "Top Company Culture List for Third Consecutive Year"
+                }
+            ],
+            "post_type": 4,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleCompany.jpg",
+                    "company_highlight_image_id": "50d9e8c6-11d8-474e-83f4-81fd88d356b4"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 172,
+                    "company_highlight_tags": 20
+                },
+                {
+                    "tag_id": 216,
+                    "company_highlight_tags": 21
+                },
+                {
+                    "tag_id": 219,
+                    "company_highlight_tags": 22
+                }
+            ],
+            "topic_id": 1,
+            "number_of_likes": 0,
+            "number_of_company_likes": 0,
+            "number_of_comments": 0,
+            "created_at": "2019-04-30T16:46:55.000Z",
+            "updated_at": "2019-04-30T16:46:57.000Z"
+        },
+        {
+            "post": [
+                {
+                    "company_id": "3c4d0528-c715-49e2-8172-475a7b385979",
+                    "company_name": "Hireology",
+                    "company_image": "~/assets/images/sampleLogo.png",
+                    "company_achievement_id": "785571dd-cefe-40d1-a5be-c46b26f4b07a",
+                    "company_achievement_title": "Office Expansion by 10,000 Square Feet"
+                }
+            ],
+            "post_type": 3,
+            "images": [
+                {
+                    "path": "~/assets/images/sampleCompany.jpg",
+                    "company_achievement_image_id": "03afc3c8-e132-4aba-b005-9845e8770e31"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 356,
+                    "company_achievement_tag_id": 21
+                },
+                {
+                    "tag_id": 219,
+                    "company_achievement_tag_id": 22
+                }
+            ],
+            "topic_id": 1,
+            "number_of_likes": 1,
+            "number_of_company_likes": 0,
+            "number_of_comments": 0,
+            "created_at": "2019-04-29T20:44:17.000Z",
+            "updated_at": "2019-04-29T20:44:19.000Z"
+        }
+    ],
+    "next_offset": 20
+}
